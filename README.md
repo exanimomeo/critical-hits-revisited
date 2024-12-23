@@ -5,3 +5,6 @@ It contains three compendium packs: Critical Hits Revisited (tables, macros, eff
 There are two macros available, one that puts a chat message requiring the module [Requestor](https://github.com/krbz999/requestor) to give players the option to pick a damage table to roll, and one that creates a popup for the user running the macro.
 
 All effects are stored inside of a Critical Effects object and are referenced by the tables. Not all effects are automated, only ones that could be easily added using midi-qol and chris's premades.
+
+To install, copy and paste this url into Foundry VTT's install module menu:
+https://github.com/exanimomeo/critical-hits-revisited/releases/latest/download/module.json
