@@ -18,4 +18,8 @@ And
 Hooks.once("dnd5e.applyDamage", async (a, b, options) => {
 const isCrit = options?.midi?.isCritical; //to have midi check for critical (I assume from within its workflow)
 }); 
+
+Hooks.on()
 */
+
+
